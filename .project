@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>Mecanum Drive</name>
+=======
+	<name>Practice Robot</name>
+>>>>>>> 60eecf781936c90e0a48dab31c1973e509a194c4
 	<comment></comment>
 	<projects>
 	</projects>
